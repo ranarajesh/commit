@@ -1,0 +1,12 @@
+version: "3"
+services:
+    db2:
+        build: ./sql
+        environment:
+            SA_PASSWORD: "MssqlPass123"
+            ACCEPT_EULA: "Y"
+            MSSQL_AGENT_ENABLED: "true"
+        ports:
+            - "2600:1433"
+        container_name: sql-server
+        hostname: sql-server
