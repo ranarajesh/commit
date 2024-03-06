@@ -1,0 +1,48 @@
+Framework: React app forms, web API, .net core
+Dynamic forms based on provided configuration.
+Total form: 3
+Form-1: configuration form.
+ 
+ 
+ 
+Form-2: control listing.
+ 
+ 
+Form-3: Preview Form (Click on preview it will show complete form)
+Assignment 2: Framework: React app, Web API, .net core (latest)
+Total form: 2
+User Authentication: SAML based authentication.
+Create chat as live kind of web socket or GRPC or signal-R prototype.
+ 
+Note: Chat will come live basis no get or p[ost request , so it wil be exactly same as given on below example.
+ 
+ 
+ 
+ 
+ 
+ 
+Assignment 3: Framework: React app, Web API, .net core (latest)
+Total form: 2
+ 
+User Authentication: SAML based authentication.
+Nested grid with sorting, paging and collapse options and export to excel.
+ 
+ 
+ 
+ 
+Assignment 4: Framework: React app, Web API, .net core (latest)
+Total form: 4
+Dynamic table import and export in SQL.
+Steps
+User Authentication: SAML based authentication.
+Form -1: Test connection string. 
+Field 1: SQL DB name
+Field 2: Username
+Field 3: Password (password protected mode)
+Button: Test Connection
+Form-2: Import Excel
+Excel table will be import in SQL dynamically and table will create dynamically.
+ 
+Form-3: Dynamic data display in grid with option delete, edit data and export data option.
+Form-4: If new excel will create every time previous table will clean and import data again.
+ 
